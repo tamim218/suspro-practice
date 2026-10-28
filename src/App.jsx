@@ -7,6 +7,7 @@ import Card from './Layout/Card'
 import Textpart from './Layout/Textpart'
 import Engagepart from './Layout/Engagepart'
 import Proudect from './Layout/Proudect'
+import Prisingpart from './Layout/Prisingpart'
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
   <Textpart/>
   <Engagepart/>
 <Proudect/>
+<Prisingpart/>
     </div>
   )
 }

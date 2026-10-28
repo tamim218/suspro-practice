@@ -8,7 +8,7 @@ import Button from '../COMPONENTS/Button'
 
 const Engagepart = () => {
     return (
-        <div className='mt-15'>
+        <div className='mt-15 pb-30'>
             <Container>
                 <Flex className={'items-center'}>
                     <div>

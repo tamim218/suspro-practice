@@ -9,7 +9,7 @@ import { FaAngleRight } from "react-icons/fa6";
 
 const Proudect = () => {
     return (
-        <section className='bg-[#F3F3F3]'>
+        <section className='bg-[#F3F3F3] pb-40'>
             <Container>
                 <Heading className={'text-center! pt-20 pb-20'} text='The Product we work with.' />
 

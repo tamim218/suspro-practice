@@ -8,7 +8,7 @@ import Flex from '../COMPONENTS/Flex'
 
 const Card = () => {
   return (
-    <section className='bg-[#FFFFFF1A]'>
+    <section className='bg-[#FFFFFF1A] pb-30'>
         <Container>
             <Flex className={'justify-around! flex-wrap gap-2 '}>
                 <div className='shadow-2xl bg-[#00000014] w-[380px] h-[465px]'>

@@ -5,7 +5,7 @@ import Image from '../COMPONENTS/Image'
 
 const Textpart = () => {
   return (
-    <div className='bg-[#F3F3F3] mt-25'>
+    <div className='bg-[#F3F3F3] mt-25 pb-30'>
         <Container>
        <div className='items-center justify-center flex flex-col pt-30 '>
          <h1 className='text-[38px] font-bold text-[#112F42] w-[395px] text-center pb-5'>All product work with
