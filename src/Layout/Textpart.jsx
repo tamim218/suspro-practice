@@ -15,13 +15,13 @@ uncomfortable to give up.</p>
        </div>
 
 <Flex className='items-center justify-center flex flex-row gap-5 pt-10 pb-10'>
-<Image src='public/buttonimag.png' />
-<Image src='public/buttonimag.png' />
+<Image src='/buttonimag.png' />
+<Image src='/buttonimag.png' />
 </Flex>
   
 
 
- <Image src='public/bigimage.png' />
+ <Image src='/bigimage.png' />
 
 
 </Container>

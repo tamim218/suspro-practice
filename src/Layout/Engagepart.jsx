@@ -12,7 +12,7 @@ const Engagepart = () => {
             <Container>
                 <Flex className={'items-center'}>
                     <div>
-                        <Image src={'public/engageimage.png'} />
+                        <Image src={'/engageimage.png'} />
                     </div>
                     <div>
                         <Heading className={'w-[433px] pt-5'} text='Don’t just engage, make it

@@ -21,7 +21,7 @@ opportunities of tomorrow.'/>
 </Flex>
                     </div>
                     <div className='w-7/12 relative'>
-                    <Image className="absolute left-10" src='public/bunner.png'/>
+                    <Image className="absolute left-10" src='/bunner.png'/>
                     
                     </div>
                 </Flex>

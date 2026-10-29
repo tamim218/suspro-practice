@@ -11,7 +11,7 @@ const Navber = () => {
         <Container>
             <Flex >
                 <div className='w-1/3 '>
-                <Image src="public/logo.png"/>
+                <Image src="/logo.png"/>
                 
                 </div>
             <div className='w-2/3 '>

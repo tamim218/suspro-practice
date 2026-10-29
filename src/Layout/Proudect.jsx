@@ -15,7 +15,7 @@ const Proudect = () => {
 
                 <Flex className={'flex-row gap-5'}>
                     <div className='bg-[#FFFFFF] shadow-2xl pl-6 w-[380px]'>
-                        <Image className={'pt-5 pb-5'} src='public/product.png' />
+                        <Image className={'pt-5 pb-5'} src='/product.png' />
                         <Heading text='Consulting' />
                         <Subheding className={'text-[#495E6C]! pt-5 pb-5 w-[292px]'} text='Psum dolor sit amet, consectetur
 adipiscing elit. Nisi, maecenas orci sit
@@ -27,7 +27,7 @@ pellentesque eget.'/>
                     </div>
 
                     <div className='bg-[#FFFFFF] shadow-2xl pl-6 w-[380px]'>
-                        <Image className={'pt-5 pb-5'} src='public/product.png' />
+                        <Image className={'pt-5 pb-5'} src='/product.png' />
                         <Heading text='Consulting' />
                         <Subheding className={'text-[#495E6C]! pt-5 pb-5 w-[292px]'} text='Psum dolor sit amet, consectetur
 adipiscing elit. Nisi, maecenas orci sit
@@ -39,7 +39,7 @@ pellentesque eget.'/>
                     </div>
 
                     <div className='bg-[#FFFFFF] shadow-2xl pl-6 w-[380px]'>
-                        <Image className={'pt-5 pb-5'} src='public/product.png' />
+                        <Image className={'pt-5 pb-5'} src='/product.png' />
                         <Heading text='Consulting' />
                         <Subheding className={'text-[#495E6C]! pt-5 pb-5 w-[292px]'} text='Psum dolor sit amet, consectetur
 adipiscing elit. Nisi, maecenas orci sit

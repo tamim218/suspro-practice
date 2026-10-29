@@ -40,7 +40,7 @@ already using STDEV actively'/>
                     <div>
                         <Flex className='gap-5'>
                             <div>
-                                <Image src='public/rattingimg1.png' />
+                                <Image src='/rattingimg1.png' />
                             </div>
                             <div>
                                 <h1 className='font-bold text-[38px] text-[#2C83BB]'>70+</h1>
@@ -51,7 +51,7 @@ already using STDEV actively'/>
                     <div>
                         <Flex className='gap-5'>
                             <div>
-                                <Image src='public/rattingimg1.png' />
+                                <Image src='/rattingimg1.png' />
                             </div>
                             <div>
                                 <h1 className='font-bold text-[38px] text-[#2C83BB]'>22 Years+</h1>
@@ -62,7 +62,7 @@ already using STDEV actively'/>
                     <div>
                         <Flex className='gap-5'>
                             <div>
-                                <Image src='public/rattingimg1.png' />
+                                <Image src='/rattingimg1.png' />
                             </div>
                             <div>
                                 <h1 className='font-bold text-[38px] text-[#2C83BB]'>$40+M</h1>

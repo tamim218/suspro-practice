@@ -12,7 +12,7 @@ const Card = () => {
         <Container>
             <Flex className={'justify-around! flex-wrap gap-3 '}>
                 <div className='shadow-2xl bg-[#00000014] w-[380px] h-[490px]'>
-                    <Image className='w-full' src='/public/cardimage1.png'/>
+                    <Image className='w-full' src='/cardimage1.png'/>
                     <Heading className={'pt-8!'} text='FinTech'/>
                     <Subheding className={'text-[#495E6C]! w-[287px] pt-6 pb-3!'} text='Psum dolor sit amet, consectetur
 adipiscing elit. Nisi, maecenas orci sit
@@ -25,7 +25,7 @@ pellentesque eget.'/>
                 </div>
 
                 <div className='shadow-2xl bg-[#00000014] w-[380px] h-[490px]'>
-                    <Image className='w-full' src='/public/cardimage2.png'/>
+                    <Image className='w-full' src='/cardimage2.png'/>
                     <Heading className={'pt-8!'} text='Telecom'/>
                     <Subheding className={'text-[#495E6C]! w-[287px] pt-6 pb-3!'} text='Psum dolor sit amet, consectetur
 adipiscing elit. Nisi, maecenas orci sit
@@ -38,7 +38,7 @@ pellentesque eget.'/>
                 </div>
 
                 <div className='shadow-2xl bg-[#00000014] w-[380px] h-[490px]'>
-                    <Image className='w-full' src='/public/cardimage3.png'/>
+                    <Image className='w-full' src='/cardimage3.png'/>
                     <Heading className={'pt-8!'} text='Retail'/>
                     <Subheding className={'text-[#495E6C]! w-[287px] pt-6 pb-3!'} text='Psum dolor sit amet, consectetur
 adipiscing elit. Nisi, maecenas orci sit
@@ -51,7 +51,7 @@ pellentesque eget.'/>
                 </div>
 
                 <div className='shadow-2xl bg-[#00000014] w-[380px] h-[490px] mt-15'>
-                    <Image className='w-full' src='/public/cardimage3.png'/>
+                    <Image className='w-full' src='/cardimage3.png'/>
                     <Heading className={'pt-8!'} text='Transportation'/>
                     <Subheding className={'text-[#495E6C]! w-[287px] pt-6 pb-3!'} text='Psum dolor sit amet, consectetur
 adipiscing elit. Nisi, maecenas orci sit
@@ -64,7 +64,7 @@ pellentesque eget.'/>
                 </div>
 
                 <div className='shadow-2xl bg-[#00000014] w-[380px] h-[490px] mt-15'>
-                    <Image className='w-full' src='/public/cardimage2.png'/>
+                    <Image className='w-full' src='/cardimage2.png'/>
                     <Heading className={'pt-8!'} text='eLearning'/>
                     <Subheding className={'text-[#495E6C]! w-[287px] pt-6 pb-3!'} text='Psum dolor sit amet, consectetur
 adipiscing elit. Nisi, maecenas orci sit
@@ -77,7 +77,7 @@ pellentesque eget.'/>
                 </div>
 
                 <div className='shadow-2xl bg-[#00000014] w-[380px] h-[490px] mt-15'>
-                    <Image className='w-full' src='/public/cardimage1.png'/>
+                    <Image className='w-full' src='/cardimage1.png'/>
                     <Heading className={'pt-8!'} text='Artificial Intelligence'/>
                     <Subheding className={'text-[#495E6C]! w-[287px] pt-6 pb-3!'} text='Psum dolor sit amet, consectetur
 adipiscing elit. Nisi, maecenas orci sit
