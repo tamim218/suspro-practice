@@ -2,7 +2,7 @@ import React from 'react'
 import Container from '../COMPONENTS/Container'
 import Flex from '../COMPONENTS/Flex'
 import Image from '../COMPONENTS/Image'
-import Listitem from '../COMPONENTS/listitem'
+import Listitem from '../COMPONENTS/Listitem'
 import Button from '../COMPONENTS/Button'
 
 const Navber = () => {

@@ -15,7 +15,7 @@ const App = () => {
   <Navber/>
   <Bunner/>
   <Rating/>
-  <Heading className='text-center! pt-20 pb-10' text='Industries in focus'></Heading>
+  <Heading className='text-center! pt-30 pb-40' text='Industries in focus'></Heading>
   <Card/>
   <Textpart/>
   <Engagepart/>

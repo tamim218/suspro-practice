@@ -6,7 +6,7 @@ import Image from '../COMPONENTS/Image'
 
 const Bunner = () => {
     return (
-        <section className='bg-red-400 pt-10 pb-5'>
+        <section className='bg-red-400 pt-10 pb-40'>
             <Container>
                 <Flex>
                     <div className='w-5/12'>

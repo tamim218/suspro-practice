@@ -8,8 +8,10 @@ import Subheding from '../COMPONENTS/Subheding';
 
 const Rating = () => {
     return (
-        <section className='pt-10 bg-[#FFFFFF] shadow-[0_4px_20px_0_rgba(0,0,0,0.15)]"'>
+        <section className=' '>
+
             <Container>
+                <div className='bg-[#FFFFFF] shadow-[0_4px_20px_0_rgba(0,0,0,0.15)] pt-10 pb-10'>
                 <Flex className='justify-around'>
                     <div className=' '>
                         <p className='text-[#2C83BB] font-bold pb-5'>Who we are?</p>
@@ -70,7 +72,7 @@ already using STDEV actively'/>
                     </div>
                 </Flex>
 
-
+</div>
             </Container>
         </section>
     )
