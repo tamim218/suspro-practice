@@ -1,26 +1,30 @@
 import React from 'react'
-import Navber from './Layout/Navber'
-import Bunner from './Layout/Bunner'
-import Rating from './Layout/Rating'
-import Heading from './COMPONENTS/Heading'
-import Card from './Layout/Card'
-import Textpart from './Layout/Textpart'
-import Engagepart from './Layout/Engagepart'
-import Proudect from './Layout/Proudect'
-import Prisingpart from './Layout/Prisingpart'
+import {
+  createRoutesFromElements,
+  createBrowserRouter,
+  Route,
+  RouterProvider,
+} from "react-router-dom";
+import Home from '../public/Pages/Home';
+import About from '../public/Pages/About';
+import Contact from '../public/Pages/Contact';
+
+const router = createBrowserRouter(
+  createRoutesFromElements(
+    <Route>
+      <Route path="/" element={<Home />} />
+      <Route path="/About" element={<About />} />
+      <Route path="/contact" element={<Contact />} />
+    </Route>
+  )
+);
+
+
 
 const App = () => {
   return (
     <div>
-  <Navber/>
-  <Bunner/>
-  <Rating/>
-  <Heading className='text-center! pt-30 pb-40' text='Industries in focus'></Heading>
-  <Card/>
-  <Textpart/>
-  <Engagepart/>
-<Proudect/>
-<Prisingpart/>
+    <RouterProvider router={router} />
     </div>
   )
 }
